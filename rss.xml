@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[gwencharles]]></title>
         <description><![CDATA[gwencharles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gwencharles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 01:28:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 01:32:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gwencharles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Double GoldFeather, (2015) - gwencharles]]></title>
+            <description><![CDATA[<article><h1>Double GoldFeather, (2015) - gwencharles</h1><p>Double Goldfeather, 2015 from gwen charles on Vimeo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b0116601682bf2a6b9ea0d50003066067fdb2c6.png"></article>]]></description>
+            <link>http://gwencharles.com/Double-GoldFeather-2015</link>
+            <guid isPermaLink="false">8c976880-bb39-445d-b918-7ad2ed0c92d5</guid>
+            <pubDate>Sun, 01 May 2016 01:32:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gwencharles]]></title>
             <description><![CDATA[<article><h1>gwencharles</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0617aae30603b167e879267d794c7aca609a22c.jpg"></article>]]></description>
