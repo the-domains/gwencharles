@@ -1,0 +1,28 @@
+name: gwencharles
+favicon: null
+layout_spectrum: 0.6593833789229393
+typography_spectrum: 0.7443186938762665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.06314908945932984
+  lightness: 0.6346522402018309
+  saturation: 0.640664235688746
+  rhythmicContrast: 0.19358158647082746
+purpose: []
