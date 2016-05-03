@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://gwencharles.com/Cupcake-Mouth-2012'
 title: Cupcake Mouth (2012) - gwencharles
-datePublished: '2016-05-03T16:17:21.108Z'
-dateModified: '2016-05-01T01:32:47.733Z'
+datePublished: '2016-05-03T16:17:21.135Z'
+dateModified: '2016-05-01T01:31:07.372Z'
 starred: false
 sourcePath: _posts/2016-05-03-cupcake-mouth-2012-gwencharles.md
 published: true
